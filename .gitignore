@@ -1,3 +1,4 @@
 *.py[cod]
 tmp*
+/bad_tries
 __pycache__
